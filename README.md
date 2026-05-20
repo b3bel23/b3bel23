@@ -51,16 +51,6 @@ Tenho interesse em **análise de dados, inteligência artificial, bancos de dado
 
 ---
 
-## 📚 Atualmente estudando
-
-- Python para Ciência de Dados
-- MongoDB e bancos NoSQL
-- Algoritmos de busca
-- Teoria dos Grafos
-- Power BI
-- Machine Learning
-
----
 
 ## 📫 Contato
 
