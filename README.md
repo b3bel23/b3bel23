@@ -1,4 +1,16 @@
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDV2b2h4M3Q2c2NrbWh6d3F4M2M1b2s0b3N5M2x3Y2h2aWh6b3A2YiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlNaQ6gWfllcjDO/giphy.gif" width="220"/>
+<img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="220"/>
+
+<img src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" width="220"/>
+
+<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="220"/>
+
+<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="220"/>
+
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="220"/>
+
+<img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="220"/>
+
+<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="220"/>
 
 # oii, eu sou a Isabel 🌷✨
 
