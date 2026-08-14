@@ -1,6 +1,5 @@
 <div align="center">
 <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="200"/>
-<img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="200"/>
 </div>
 
 # oii, eu sou a Isabel 🌷✨
