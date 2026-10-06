@@ -17,7 +17,7 @@
 - 🐍 amo programar em Python e em C
 - 📊 interessada em Ciência de Dados e Inteligência Artificial
 - 🌐 explorando Teoria dos Grafos e bancos de dados
-- 🎀 organizada, curiosa e sempre aprendendo
+- 🎀 organizada, proativa e sempre aprendendo
 
 ---
 
