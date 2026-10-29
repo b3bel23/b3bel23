@@ -5,8 +5,11 @@
 # Olá, eu sou a Isabel Baungartner🌷✨
 
 🎓 Estudante de Ciência de Dados e IA na PUC Campinas
+
 💼 Estagiária na área de GIT do Instituto Eldorado
+
 💻 Apaixonada por tecnologia, dados e projetos criativos  
+
 📚 Aprofundando meus estudos em Machine Learning, Python, IA, Power BI e Banco de Dados
 
 
